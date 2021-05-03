@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Phoenix Ribbed Leggings - Lilac",
+        "price": 34.99,
+        "image": { "fields": { "file": { "url": "./images/products/Phoenix-Ribbed-Lilac/1-IMG_2405.jpg" } } },
+        "link": "href=./Products/Phoenix_Ribbed_Lilac.html"
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Coral Pink",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessLeggings-CoralPink/Coral-Pink-Set-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Virgo Compression Style Leggings - Sour Cherry",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/VirgoCompressionStyleLeggings-SourCherry/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Titan Leggings - Light Purple",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/TitanLeggings-LightPurple/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Phoenix Ribbed Leggings - Baby Blue",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/PhoenixRibbedLeggings-BabyBlue/1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Galaxy Leggings - Black",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/GalaxyLeggings/1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Libra Compression Style Leggings - Black",
+        "price": 25.00,
+        "image": { "fields": { "file": { "url": "./images/products/Libracompressionstyleleggings-Black/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Sky Blue",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessLeggings-SkyBlue/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Gemini Pocket Mode High-Waisted - Granite",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/GeminiPocketModeHigh-waistedleggings-Granite/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Alphaskin Leggings - Burgundy",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/AlphaskinLeggings-Burgundy/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Alphaskin Leggings - Slate",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/AlphaskinLeggings-Slate/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "High_Waisted Seamless Leggings - Tangerine",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/High-WaistedSeamlessLeggings-Tangerine/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Ombre Seamless Leggings - Grey/Pink",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/OmbreSeamlessLeggings-Grey_Pink/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Phoenix Ribbed Leggings - Black",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/PhoenixRibbedLeggings-Black/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Phoenix Ribbed Leggings - Khaki",
+        "price": 35.00,
+        "image": { "fields": { "file": { "url": "./images/products/PhoenixRibbedLeggings-Khaki/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Polaris Compression Style Leggings - Pastel Pink/White",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/PolarisCompressionStyleleggings-PastelPinkWhite/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Dark Green",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessLeggings-DarkGreen/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Graphite",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessLeggings-Graphite/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Peach",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessLeggings-Peach/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "Sofia One Seamless Leggings - Violet",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/SofiaOneSeamlessleggings-Violet/1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "Vega Leggings - Graphite",
+        "price": 33.00,
+        "image": { "fields": { "file": { "url": "./images/products/Vegaleggings-Graphite/1.jpg" } } }
+      }
+    }
+  ]
+}
